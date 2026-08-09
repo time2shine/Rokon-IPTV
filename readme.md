@@ -2,7 +2,7 @@
  
 **Copy this link for IPTV**
 ```bash
-https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u
+https://raw.githubusercontent.com/time2shine/Rokon-IPTV/refs/heads/main/playlist.m3u
 ```
  
 ---  

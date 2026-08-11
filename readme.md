@@ -4,6 +4,10 @@
 ```bash
 https://raw.githubusercontent.com/time2shine/Rokon-IPTV/refs/heads/main/playlist.m3u
 ```
+or
+```bash
+https://tinyurl.com/rokon-iptv 
+```
  
 ---  
  

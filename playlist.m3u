@@ -49,8 +49,6 @@ https://iptvlive.ahmed-bd-org.workers.dev/channel-i-1/index.m3u8
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/channel_s.png" group-title="Bangla",Channel S UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="colorsbanglacinemahd.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/colors_bangla_cinema.png" group-title="Bangla",Colors Bangla Cinema
-https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8
 #EXTINF:-1 tvg-id="colorsBangla.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/colors_bangla_hd.png" group-title="Bangla",Colors Bangla HD
 http://premiumtvs.space:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
 #EXTINF:-1 tvg-id="DDBangla.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dd_bangla.png" group-title="Bangla",DD Bangla
@@ -61,14 +59,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/in
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 #EXTINF:-1 tvg-id="DESHTV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/desh_tv.png" group-title="Bangla",Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1 tvg-id="DesheBideshe" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/deshe_bideshe.png" group-title="Bangla",Deshe Bideshe
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-id="deshitv.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/deshi_tv.png" group-title="Bangla",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JooMusic.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dhoom_music_bangla.png" group-title="Bangla",Dhoom Music Bangla
 http://103.175.73.12:8080/live/378/378_0.m3u8
+#EXTINF:-1 tvg-id="DISCOVERYBANGLA.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/discovery_bangla.png" group-title="Bangla",Discovery Bangla
+http://elitenova.net/live/MAGTF8AV71/bUiJLEJKG5/510485.ts
 #EXTINF:-1 tvg-id="custom.doyeltv" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/doyel_tv.png" group-title="Bangla",Doyel TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-id="ibtv.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dtv_usa.png" group-title="Bangla",DTV USA
-https://cdn.dtvusa.com/dtv/tracks-v1a1/mono.m3u8
+https://cdn.dtvusa.com/dtv/index.m3u8
 #EXTINF:-1 tvg-id="ekushey.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ekushey_tv.png" group-title="Bangla",Ekushey TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/enter_tv.png" group-title="Bangla",Enter TV
@@ -127,8 +129,6 @@ https://iptvlive.ahmed-bd-org.workers.dev/ntv-1/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="OrangeBanglaTV.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/orange_bangla_tv.png" group-title="Bangla",Orange Bangla TV
 https://cdn.pishow.tv/ott/live/1499/master.m3u8
-#EXTINF:-1 tvg-id="PROBASHITV.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/probashi_tv.png" group-title="Bangla",Probashi TV
-http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RPlusGould" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/r_plus_gold.png" group-title="Bangla",R Plus Gold
 http://103.175.73.12:8080/live/198/198_0.m3u8
 #EXTINF:-1 tvg-id="Rajdhani TV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rajdhani_tv.png" group-title="Bangla",Rajdhani TV
@@ -143,14 +143,10 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92
 http://103.175.73.12:8080/live/664/664_0.m3u8
 #EXTINF:-1 tvg-id="SATV.tv" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sa_tv_hd.png" group-title="Bangla",SA TV HD
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SanandaBangladesh.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sananda_bangladesh.png" group-title="Bangla",Sananda Bangladesh
-http://115.187.41.216:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-id="Sanandatv" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sananda_tv.png" group-title="Bangla",Sananda TV
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-id="sangeetbangla.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sangeet_bangla.png" group-title="Bangla",Sangeet Bangla
 http://103.175.73.12:8080/live/379/379_0.m3u8
-#EXTINF:-1 tvg-id="SNBCinema.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/snb_cinema.png" group-title="Bangla",SNB Cinema
-http://103.182.83.246/hls/snbcinema.m3u8
 #EXTINF:-1 tvg-id="SonarBangla.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sonar_bangla.png" group-title="Bangla",Sonar Bangla
 https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="sonyaathhd.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_aath_hd.png" group-title="Bangla",Sony Aath HD
@@ -169,6 +165,8 @@ http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts
 https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zb_cinema.png" group-title="Bangla",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ZBMusic.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zb_music.png" group-title="Bangla",ZB Music
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZeeBangla.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_bangla.png" group-title="Bangla",Zee Bangla HD
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98881.ts
 #EXTINF:-1 tvg-id="JamunaTV.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bd_jamuna_tv.png" group-title="Bangla News",Jamuna TV
@@ -190,7 +188,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="Channel1.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bd_channel_1.png" group-title="Bangla News",Channel 1
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="News21Bangla.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bd_news_21_bangla.jpg" group-title="Bangla News",News 21 Bangla
-http://103.190.133.68:1935/news21live/live/chunklist_w870394000.m3u8
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TBN24.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bd_tbn_24_usa.png" group-title="Bangla News",TBN 24 USA
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 #EXTINF:-1 tvg-id="ABPAnanda.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/in_abp_ananda.png" group-title="Bangla News",ABP Ananda
@@ -215,8 +213,6 @@ http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/in_ktv_bangla.png" group-title="Bangla News",KTV Bangla
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
-#EXTINF:-1 tvg-id="AnandaBarta.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/in_ananda_barta.jpg" group-title="Bangla News",Ananda Barta
-https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
 #EXTINF:-1 tvg-id="OnkarNews.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/in_onkar_news.png" group-title="Bangla News",Onkar News
 https://stream.ottlive.co.in/onkarnews/index.m3u8
 #EXTINF:-1 tvg-id="RCTVSangbad.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rctv.png" group-title="Bangla News",RCTV Sangbad
@@ -228,13 +224,13 @@ http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnn_international.png" group-title="International News",CNN International
 https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/al_jazeera_english_hd.png" group-title="International News",Al Jazeera English HD
-https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sky_news.png" group-title="International News",Sky News
 https://tvsen5.aynaott.com/skynews/index.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/france_24.png" group-title="International News",France 24 English
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DWNews.de" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dw_news.jpg" group-title="International News",DW News
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/abc_news.png" group-title="International News",ABC News
 https://tvsen6.aynaott.com/AbcNews/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cbs_news.png" group-title="International News",CBS News
@@ -248,7 +244,7 @@ http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/euronews.png" group-title="International News",Euronews English
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalNews.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/global_news.png" group-title="International News",Global News (US)
-https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hln.png" group-title="International News",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsin90Seconds" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/abc_news_in_90_seconds.png" group-title="International News",ABC News in 90 Seconds
@@ -260,7 +256,7 @@ https://tvsen6.aynaott.com/cnbc/index.m3u8?e=1779178082&u=617d0e90-2bc6-4dc5-889
 #EXTINF:-1 tvg-id="FoxBusiness.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fox_business.png" group-title="International News",Fox Business
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bloomberg_originals.png" group-title="International News",Bloomberg Originals
-https://bloomberg.com/media-manifest/streams/qt.m3u8
+https://f56779ab.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9CbG9vbWJlcmdPcmlnaW5hbHNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/yahoo_finance.png" group-title="International News",YAHOO FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/trt_world.jpg" group-title="International News",TRT World
@@ -268,7 +264,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/wion.png" group-title="International News",WION
 https://amg01412-xiaomiasia-zeewion-xiaomi-nkzot.amagi.tv/playlist/amg01412-xiaomiasia-zeewion-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="Arirang.kr" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/arirang.png" group-title="International News",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cgtn.jpg" group-title="International News",CGTN
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cna_international.png" group-title="International News",CNA International
@@ -322,7 +318,7 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/the_weather_channel.png" group-title="International News",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 #EXTINF:-1 tvg-id="AccuWeatherNOW.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/accuweather_now.png" group-title="International News",AccuWeather NOW
-https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fox_weather.png" group-title="International News",Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="News24Weather.au" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news24_weather.png" group-title="International News",News24 Weather
@@ -418,7 +414,7 @@ http://103.175.73.12:8080/live/345/345_0.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ndtv_good_times.png" group-title="India",NDTV Good Times
 https://cdn.pishow.tv/ott/live/1285/master.m3u8
 #EXTINF:-1 tvg-id="TheQ.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/q_tv.png" group-title="India",Q TV
-http://163.61.226.31:9981/stream/channelid/359164420?profile=pass
+https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SalaamTV.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/salaam_tv.png" group-title="India",Salaam TV
 https://mumt07.tangotv.in/zHjX9OFlZEESALAM/index.m3u8
 #EXTINF:-1 tvg-id="SANSADTV1.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sansad_tv_1.webp" group-title="India",SANSAD TV 1
@@ -436,7 +432,7 @@ https://tvsen6.aynaott.com/tlc_hd/index.m3u8?e=1779178092&u=617d0e90-2bc6-4dc5-8
 #EXTINF:-1 tvg-id="ZeeSalaam.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_salaam.png" group-title="India",Zee Salaam
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zee_tv.png" group-title="India",Zee TV
-http://41.205.93.154/ZEE-TV/index.m3u8
+https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="History TV18 HD Hindi" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/alone_by_history.png" group-title="India",History TV18 HD Hindi
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/epic_bharat.png" group-title="India",Epic Bharat
@@ -447,8 +443,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://bosstv.click:8080/live/18012689/77561563/97487.ts
 #EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/colors_cineplex_hd.webp" group-title="India",Colors Cineplex HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-#EXTINF:-1 tvg-id="StarGoldSelect HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_gold_select.png" group-title="India",Star Gold Select HD
-https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/b4u_movies.png" group-title="India",B4U Movies
 https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/b4u_kadak.png" group-title="India",B4U Kadak
@@ -498,7 +492,7 @@ http://93.184.10.248/MBCBollywood/index.m3u8
 #EXTINF:-1 tvg-id="MHOneMovies.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mh_one_movies.png" group-title="India",MH One Movies
 https://fta.ektv.in/live/639/master.m3u8
 #EXTINF:-1 tvg-id="NH BollyFlix" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mov_nh_bollyflix.png" group-title="India",NH BollyFlix
-https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/d47d1910-8862-4b83-a8a6-00ac11307859/0.m3u8
+https://cc-r5hupcym5oehh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/ece6e311-8eb0-4fdf-8378-d337cba07ec2/0.m3u8
 #EXTINF:-1 tvg-id="PITAARAMOVIES.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mov_pitaara_movies.webp" group-title="India",PITAARA MOVIES
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 #EXTINF:-1 tvg-id="PocketFilms.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pocket_films.png" group-title="India",Pocket Films
@@ -509,6 +503,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://cdn.pishow.tv/ott/live/337/master.m3u8
 #EXTINF:-1 tvg-id="South Station" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mov_south_station.png" group-title="India",South Station
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 tvg-id="SRKLive.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/srk_live_movies.png" group-title="India",SRK Live Movies
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarGoldThrills.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_gold_thrills.png" group-title="India",Star Gold Thrills
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/773735.ts
 #EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/star_maa_movies.png" group-title="India",Star Maa Movies
@@ -606,7 +602,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="News18India" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news_cnn_news18.png" group-title="India",News18 India
 https://amg01448-samsungin-news18india-samsungin-ad-gx.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungin-news18india-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCAwaaz" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnbc_awaaz.png" group-title="India",CNBC Awaaz
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnbc_tv18.png" group-title="India",CNBC TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dd_news.png" group-title="India",DD News
@@ -650,7 +646,7 @@ https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="CnewsBharat.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnews_bharat.png" group-title="India",Cnews Bharat
 https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="CNNNews18" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cnn_international.png" group-title="India",CNN News18
-https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cvr_english.png" group-title="India",CVR English
 https://cdn.pishow.tv/ott/live/425/master.m3u8
 #EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dw_english.png" group-title="India",DW English
@@ -667,10 +663,8 @@ https://stream.ottlive.co.in/gtcnews/index.m3u8
 https://samitaorigin.tangotv.in/HARKHABAR/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="HindiKhabar.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hindi_khabar.png" group-title="India",Hindi Khabar
 https://cdn.pishow.tv/ott/live/1041/master.m3u8
-#EXTINF:-1 tvg-id="HNN24x7.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hnn_24x7.png" group-title="India",HNN 24x7
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
 #EXTINF:-1 tvg-id="IBC24.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ibc_24.png" group-title="India",IBC 24
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8
+https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
 #EXTINF:-1 tvg-id="Ind24.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ind_24.png" group-title="India",Ind 24
 https://livestream.jswk.online/ind24/live/index.m3u8
 #EXTINF:-1 tvg-id="IndiaAhead.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/india_ahead.png" group-title="India",India Ahead
@@ -699,14 +693,12 @@ https://stream.ottlive.co.in/kbcnews/index.m3u8
 https://cdn.ottlive.co.in/mahuakhabar/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mh_one_prime.png" group-title="India",MH One Prime
 https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8
-#EXTINF:-1 tvg-id="MKNNews.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mkn_news.png" group-title="India",MKN News
-https://5dd3981940faa.streamlock.net/mknnews/mknnews/playlist.m3u8
 #EXTINF:-1 tvg-id="MNSNews.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mns_news.png" group-title="India",MNS News
 https://account23.livebox.co.in/Mnsnewshls/live.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ndtv_24x7.png" group-title="India",NDTV 24x7
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTV24x7.m3u8
 #EXTINF:-1 tvg-id="ndtvenglish" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/afrolandtv.png" group-title="India",NDTV English
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="ndtvindia" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/afrolandtv.png" group-title="India",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 tvg-id="NDTVMP.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ndtv_mp.png" group-title="India",NDTV MP
@@ -728,7 +720,7 @@ https://live1.ottlive.co.in/news11/news11/index.m3u8
 #EXTINF:-1 tvg-id="News24" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news_news24.png" group-title="India",News24
 https://cdn.pishow.tv/ott/live/253/master.m3u8
 #EXTINF:-1 tvg-id="News9Live.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/news9live.png" group-title="India",News9Live
-https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
+https://mumbai-edge.smartplaytv.in/News9/index.m3u8
 #EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/in_republic_bangla.png" group-title="India",Republic TV
 https://cdn.pishow.tv/ott/live/271/master.m3u8
 #EXTINF:-1 tvg-id="SBNews24x7.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sb_news_24x7.png" group-title="India",SB News 24x7
@@ -769,6 +761,8 @@ https://cdn.pishow.tv/ott/live/233/master.m3u8
 https://cdn.pishow.tv/ott/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/anjan_tv.png" group-title="India",Anjan TV
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 tvg-id="MahuaPlay.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mahua_play.png" group-title="India",Mahua Play
+https://cdn.ottlive.co.in/mahuaplay/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/manoranjan_grand.png" group-title="India",Manoranjan Grand
 http://103.175.73.12:8080/live/19/19_0.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiCanada.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ptc_punjabi_canada.png" group-title="India",PTC Punjabi Canada
@@ -778,7 +772,7 @@ https://cdn.pishow.tv/ott/live/1501/master.m3u8
 #EXTINF:-1 tvg-id="PitaaraTV.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mov_pitaara_movies.webp" group-title="India",Pitaara TV
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index_5.m3u8
 #EXTINF:-1 tvg-id="PitaaraComedy.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pitaara_comedy.png" group-title="India",Pitaara Comedy
-https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-217489/playlist.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/punjabi_hits.png" group-title="India",Punjabi Hits
 https://legitpro.co.in/punjabihits/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/punjabi_beats_hd.png" group-title="India",Punjabi Beats HD
@@ -794,7 +788,7 @@ https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/gtc_punjabi_uk.png" group-title="India",GTC Punjabi UK
 https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ent_pardesi_tv.png" group-title="India",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 tvg-id="PTCPUNJABI.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pan_ptc_punjabi.webp" group-title="India",PTC PUNJABI
 https://cdn.pishow.tv/ott/live/1604/master.m3u8
 #EXTINF:-1 tvg-id="PTCPUNJABIGOLD.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pan_ptc_punjabi.webp" group-title="India",PTC PUNJABI GOLD
@@ -818,9 +812,11 @@ http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="HUMSitaray.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hum_sitaray.png" group-title="Pakistan",Hum Sitaray
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-id="BSTV.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bstv.png" group-title="Pakistan",BSTV
-https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlBSTV/index.m3u8
 #EXTINF:-1 tvg-id="TagTV.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tag_tv.png" group-title="Pakistan",Tag TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WasebTV.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/waseb_tv.jpg" group-title="Pakistan",Waseb TV
+https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
 #EXTINF:-1 tvg-id="FalakTV.ae" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/falak_tv.png" group-title="Pakistan",Falak TV
 https://falak.rst.ae/index.m3u8
 #EXTINF:-1 tvg-id="8XM.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/8xm.png" group-title="Pakistan",8XM
@@ -833,6 +829,8 @@ https://arynewsm.aryzap.com/v1/0183ea205add0b8ed5941a38bc6f/018ad63928611ea50695
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
 #EXTINF:-1 tvg-id="GNN.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/gnn.png" group-title="Pakistan",GNN
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/gnnnews-181/playlist.m3u8
+#EXTINF:-1 tvg-id="NeoNews.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/neo_news.png" group-title="Pakistan",Neo News
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
 #EXTINF:-1 tvg-id="LahoreRang.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/lahore_rang.png" group-title="Pakistan",Lahore Rang
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8
 #EXTINF:-1 tvg-id="KTNNews.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ktn_news.png" group-title="Pakistan",KTN News
@@ -904,15 +902,13 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a
 #EXTINF:-1 tvg-id="ActionHollywoodMovies.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/action_hollywood_movies.png" group-title="Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="BestThrillerTV.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/best_thriller_tv.png" group-title="Movies",Best Thriller TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
 #EXTINF:-1 tvg-id="MoviesAction.sa" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies_action.png" group-title="Movies",Movies Action
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="KungFuPlus.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies.png" group-title="Movies",Kung Fu+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 #EXTINF:-1 tvg-id="BangBangTV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies.png" group-title="Movies",Bang Bang TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
-#EXTINF:-1 tvg-id="AmericanHorrors.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/american_horrors.png" group-title="Movies",American Horrors
-http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+https://streams.sofast.tv/ptnr-yupptv/title-BANG-BANG-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
 #EXTINF:-1 tvg-id="CinevaultMurder.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cinevault_80s.png" group-title="Movies",Cinevault Murder and Mayhem
 https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="UrbanAction.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/action_hollywood_movies.png" group-title="Movies",Urban Action
@@ -949,10 +945,8 @@ https://a-cdn.klowdtv.com/live2/nost_720p/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/classique_tv.png" group-title="Movies",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="Great! romance" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies.png" group-title="Movies",GREAT! Romance
-https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mytime_movie_network.png" group-title="Movies",MyTime Movie Network
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies.png" group-title="Movies",MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8
 #EXTINF:-1 tvg-id="ShowtimeFamilyZone.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/showtime_family_zone.svg" group-title="Movies",Showtime Family Zone
@@ -984,7 +978,7 @@ https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="WTVJDT1.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies.png" group-title="Movies",WTVJ NBC 6
 https://streamer2.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-id="YTATV.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/yta_tv.png" group-title="Movies",YTA TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16767
+https://yta.unitedteleports.tv/hls/YTA.m3u8
 #EXTINF:-1 tvg-id="NACTV.ca" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nactv.png" group-title="Movies",NACTV
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
 #EXTINF:-1 tvg-id="WWONTVChannel48.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/movies.png" group-title="Movies",WWON TV
@@ -1019,6 +1013,8 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/golden_premier_2.png" group-title="Movies",Golden Premier 2
 http://200.57.28.141:8540/play/a0lo
+#EXTINF:-1 tvg-id="BonchesLatinosTV.do" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bonches_latinos_tv.png" group-title="Movies",Bonches Latinos TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ajyal_tv.jpg" group-title="Movies",Ajyal TV
 http://htvmada.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="VivacomArena.bg" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/vivacom_arena.png" group-title="Movies",Vivacom Arena
@@ -1040,7 +1036,7 @@ https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8
 #EXTINF:-1 tvg-id="TVPlus.cw" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tvplus.jpg" group-title="Movies",TVPlus
 https://k20.usastreams.com:8081/tvplus/index.m3u8?fbclid=IwY2xjawN7z7hleHRuA2FlbQIxMQBicmlkETBVZ3B6cUxzQUJpR2JEN2N3c3J0YwZhcHBfaWQBMAABHswI7rvOl7SWBiRZQuw-xmwU68iFWBUc5OBhK-EhoV9LwLU0BbUJ0xrYqvSs_aem_9HGlrTEOHSna9Egup77jjA
 #EXTINF:-1 tvg-id="DiscoveryChannel" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/discovery_channel.png" group-title="Educational",Discovery Channel
-http://92.180.26.103:80/stream/28/index.m3u8
+http://102.129.186.182:81/discovery/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/animal_planet.png" group-title="Educational",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="BBCEarth" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bbc_earth.png" group-title="Educational",BBC Earth
@@ -1100,7 +1096,7 @@ http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/autentic_history.png" group-title="Educational",Autentic History
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueHistory" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/true_history.png" group-title="Educational",True History
-https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cgtn_documentary.png" group-title="Educational",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 tvg-id="GB2700011DR" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ax_men.png" group-title="Educational",Ax Men
@@ -1166,7 +1162,7 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cgtn_global_biz.png" group-title="Educational",CGTN Global Biz
 https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 #EXTINF:-1 tvg-id="Choppertown" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/choppertown.png" group-title="Educational",Choppertown
-https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="DeltaEvros.docu" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/delta_evros.png" group-title="Educational",Delta Evros
 http://81.171.10.42:1935/liveD/DStream.sdp/chunklist_w819085920.m3u8
 #EXTINF:-1 tvg-id="DOCUMENT" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cgtn_documentary.png" group-title="Educational",DOCUMENT
@@ -1241,6 +1237,8 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PersianaKore.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/persiana_kore.png" group-title="Music",Persiana Kore
 https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/play_tv.png" group-title="Music",Play TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV.id@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rctv.png" group-title="Music",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RJTV.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rjtv.png" group-title="Music",RJTV
@@ -1248,7 +1246,7 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SCTV11.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sctv11.png" group-title="Music",SCTV11
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
 #EXTINF:-1 tvg-id="StrykTV.us@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/stryk_tv.png" group-title="Music",Stryk TV
-https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
+https://fffffff110156200.tvustream.com:8298/ryfy.m3u8
 #EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/totalmusic_80s.png" group-title="Music",Totalmusic 80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="V2Beat" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_v2beat.png" group-title="Music",V2Beat
@@ -1294,7 +1292,7 @@ http://38.188.186.47:4000/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaReggaeton.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mi_musica_reggaeton.png" group-title="Music",Mi Musica Reggaeton
 http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-id="POP" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mi_musica_popular.png" group-title="Music",Mi Musica Popular
-http://45.226.205.96:48000/play/a0f8/index.m3u8
+http://190.60.32.178:8178/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="FiestaTV.co@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fiesta_tv.png" group-title="Music",Fiesta TV
 https://panelvideo1.intermediahost.co:3286/live/ruzfpkqklive.m3u8
 #EXTINF:-1 tvg-id="FuegoTV.do@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fuego_tv.png" group-title="Music",Fuego TV
@@ -1332,7 +1330,7 @@ https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-id="ElRadar.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/el_radar.png" group-title="Music",El Radar
 https://video.ipstream.cl:3459/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/emi_tv.png" group-title="Music",EMI TV
-https://astra.emitv.ro/hls/emi/index.m3u8
+https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hei_now.png" group-title="Music",HEi Now
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="LatinZone.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/latin_zone_tv.png" group-title="Music",Latin Zone TV
@@ -1361,14 +1359,14 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="PronemsTV.do@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pronems_tv.png" group-title="Music",Pronems TV
 https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioMaster.pe@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/radio_master.png" group-title="Music",Radio Master
-https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 #EXTINF:-1 tvg-id="RadioPunto9CR.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/radio_punto_9_cr.png" group-title="Music",Radio Punto 9
 https://acceso.mediosdecostarica.com:3569/live/punto9tvlive.m3u8
 #EXTINF:-1 tvg-id="RadioRealpolitik.ar@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/radio_realpolitik.png" group-title="Music",Radio Realpolitik
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-id="RadioZona903.cl@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/radio_zona_903.png" group-title="Music",Radio Zona 90.3
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
+#EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/radiola_tv.png" group-title="Music",Radiola TV
+http://158.172.217.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="RetromusicaTelevision.cl@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/retromusica_television.png" group-title="Music",Retromusica Television
 https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="RSVHonduras.hn@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rsv_honduras.png" group-title="Music",RSV Honduras
@@ -1415,8 +1413,6 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 http://45.163.139.42:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="VoiceOverRadioTV.cr@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/voiceover_radio_tv.png" group-title="Music",VoiceOver Radio TV
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1 tvg-id="ViaTelevision.pe@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/va_televisin.png" group-title="Music",Vía Televisión
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 #EXTINF:-1 tvg-id="XLevelMedia.ar@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/x_level_media.png" group-title="Music",X Level Media
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1 tvg-id="VivaLatino.latin" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/viva_latino.png" group-title="Music",¡Viva Latino!
@@ -1431,8 +1427,6 @@ http://stream.mcquack.net/320/index.m3u8
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bridge_deluxe_hd.png" group-title="Music",BRIDGE Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/muztv.png" group-title="Music",Muz-TV
-http://31.148.5.241/kanal_20/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/muzyka_pervogo.png" group-title="Music",Muzyka Pervogo
 http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzykaLive.ru@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/muzyka_live.png" group-title="Music",Muzyka Live
@@ -1444,7 +1438,7 @@ http://88.212.7.14/live/m2_hun/index.m3u8
 #EXTINF:-1 tvg-id="EUMusic.ua" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/eu_music.png" group-title="Music",EU Music
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-id="DiscoPoloMusic.pl@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/disco_polo_music.png" group-title="Music",Disco Polo Music
-http://92.114.85.87:8014/play/a007/index.m3u8
+http://185.227.34.179:8080/disco-polo-music/index.m3u8
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1hd_music_television.png" group-title="Music",1HD Music Television
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/first_music_channel.png" group-title="Music",First Music Channel
@@ -1490,15 +1484,13 @@ https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="cko.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cko.png" group-title="Music",Ócko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8
 #EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1_international.png" group-title="Music",Музыка 1 International
-https://kino-1.catcast.tv/content/37745/index.m3u8
+https://kino-1.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/international.png" group-title="Music",Музыка Кино International
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-id="NizhniyNovgorod24.ru@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/24.png" group-title="Music",Нижний Новгород 24
 https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1 tvg-id="CityEdenPlay.ru@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/play.png" group-title="Music",Сити Эдем Play Христианский Музыкальный
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/play.png" group-title="Music",Сити Эдем Бирма Play
-https://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fm.png" group-title="Music",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mcm_top.png" group-title="Music",MCM Top
@@ -1510,7 +1502,7 @@ https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/company_tv.png" group-title="Music",Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-id="RadionorbaTV.it" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/radio_norba_tv.png" group-title="Music",Radio Norba TV
-https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mezzo_live.png" group-title="Music",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/generations_tv.png" group-title="Music",Generations TV
@@ -1818,7 +1810,7 @@ https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/the_johnny_carson_show.png" group-title="International",The Johnny Carson Show
 https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
 #EXTINF:-1 tvg-id="Court.TV.US.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/court_tv.png" group-title="International",COURT TV
-https://d2fm99ft1zcnjm.cloudfront.net/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="CourtTV.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/court_tv.png" group-title="International",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="MrBeast.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mr_beast.png" group-title="International",Mr. Beast
@@ -1844,7 +1836,7 @@ https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8
 #EXTINF:-1 tvg-id="BondiVet.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bondi_vet.png" group-title="International",Bondi Vet
 https://wtfn-bondivet-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BratTV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/en_brat_tv.png" group-title="International",Brat TV
-https://d14l10e3k15i6k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8qhn23nsa9o2l/Brat_TV.m3u8
+https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal33Madrid.es@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/canal_33_madrid.png" group-title="International",Canal 33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
 #EXTINF:-1 tvg-id="CapeTownTV.za@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cape_town_tv.png" group-title="International",Cape Town TV
@@ -1874,7 +1866,7 @@ https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
 #EXTINF:-1 tvg-id="GREATromance.uk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/great_christmas.png" group-title="International",GREAT! Christmas
 https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="Hagerty" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hagerty.png" group-title="International",Hagerty
-https://aegis-cloudfront-1.tubi.video/1d7878db-0fc9-45fc-afb4-1355e66738ac/playlist.m3u8
+https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8
 #EXTINF:-1 tvg-id="HGTV.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hgtv.png" group-title="International",HGPTV
 https://tvsen7.aynaott.com/hgtv/index.m3u8?e=1779178091&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
 #EXTINF:-1 tvg-id="Highway Thru Hell : Powered by Banijay" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/highway_thru_hell_powered_by_banijay.png" group-title="International",Highway Thru Hell
@@ -1918,17 +1910,17 @@ https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/other_telemundo.png" group-title="International",OTHER | Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 #EXTINF:-1 tvg-id="RiC.de@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/outdoor_america.png" group-title="International",Outdoor America
-https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/outdoor_channel.png" group-title="International",Outdoor Channel
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1 tvg-id="USBD1200007FE" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/outersphere.png" group-title="International",OuterSphere
-https://d3o593mz1glx8d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1ca6ra6358f5t/OuterSphere_US.m3u8
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="PetsTV.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/petstv.png" group-title="International",Pets.TV
 https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="PositivTV.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/positiv_tv.png" group-title="International",Positiv TV
 https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8
 #EXTINF:-1 tvg-id="PowerNationTV.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/powernation_tv.png" group-title="International",PowerNation TV
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37livestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6275-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=534f5abf-183b-4b07-88d8-ba60af3de510&profilesFromStream=true
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991291
 #EXTINF:-1 tvg-id="DesiChannel" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pursuit_channel.png" group-title="International",Pursuit Channel
 https://a-cdn.klowdtv.com/live3/pursuit_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/pursuitup.png" group-title="International",PursuitUP
@@ -1978,7 +1970,7 @@ https://cc-ii7599ywyixac.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="Wipeout Xtra Powered by Banijay" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/wipeout_xtra_powered_by_banijay.png" group-title="International",Wipeout Xtra Powered by Banijay
 https://d36nnn435goed2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skhf82opa3tf4/WipeoutXtraPoweredbyBanijay_GB.m3u8
 #EXTINF:-1 tvg-id="Wonder" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/wonder.jpg" group-title="International",Wonder
-https://lds-wonder-plex.amagi.tv/playlist.m3u8
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="World War TV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/world_war_tv.png" group-title="International",World War TV
 https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/ts-eu-w1-n2/playlist/amg00841-aenetworksukane-worldwartv-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="XXTreme Jobs Hindi" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/xxtreme_jobs_hindi.png" group-title="International",XXTreme Jobs Hindi
@@ -1990,13 +1982,13 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 #EXTINF:-1 tvg-id="TravelChannel.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/travel_channel.png" group-title="Travel",Travel Channel
 https://tvsen6.aynaott.com/travelxp/index.m3u8?e=1779178090&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a
 #EXTINF:-1 tvg-id="Travelxp.in@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/travelxp.png" group-title="Travel",Travelxp
-https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelXPEnglish.eu" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/travel_xp_english_eu.png" group-title="Travel",Travel XP Europe
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="TravelXPEnglish.nz" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/travel_xp_english_nz.png" group-title="Travel",Travel XP New Zealand
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheExplorers.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/the_explorers.png" group-title="Travel",The Explorers
-https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
 #EXTINF:-1 tvg-id="MyDestinationTV.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mydestinationtv.png" group-title="Travel",MyDestination.TV
 https://a-cdn.klowdtv.com/live2/mydestinationtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/destination_america.png" group-title="Travel",Destination America
@@ -2129,8 +2121,6 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_sports_ten_3_hd.png" group-title="Sports",Sony Sports Ten 3 HD Hindi
 http://rgkkw.live:8080/live/4dfoydR2gZ/clever3still/98863.ts
-#EXTINF:-1 tvg-id="Sonysports2" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sony_sports_2_hd.png" group-title="Sports",Sony Sports 2 HD
-https://livetv.shamon-cable.net:8443/Sony-sports-2/index.m3u8
 #EXTINF:-1 tvg-id="ddsports.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/live_dd_sports.png" group-title="Sports",DD Sports
 https://cdn.pishow.tv/ott/live/13/master.m3u8
 #EXTINF:-1 tvg-id="WillowSports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/willow_sports.png" group-title="Sports",Willow Sports
@@ -2148,7 +2138,7 @@ https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsFootball.ie" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sky_sports_football.png" group-title="Sports",Sky Sports Football
 http://6zirt9yx.otttv.pw/iptv/HEGN4VXXQQSYCA/9289/index.m3u8
 #EXTINF:-1 tvg-id="LIVEFOOTBALL" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/real_madrid_tv.png" group-title="Sports",Real Madrid TV
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/real_madrid_tv_english.png" group-title="Sports",Real Madrid TV English
 http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/milan_tv.png" group-title="Sports",Milan TV
@@ -2160,7 +2150,7 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/winplus_futbol.png" group-title="Sports",Win+ Futbol
 http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-id="WINSPORTS.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/win_sports.png" group-title="Sports",WIN SPORTS
-http://181.78.71.71:18000/play/a03p/index.m3u8
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="Futbol.tj@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/futbol.png" group-title="Sports",Futbol
 http://185.121.1.163:8083/FootballHD/index.m3u8
 #EXTINF:-1 tvg-id="wwe.superstar.central.com" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/wwe_superstar_central.png" group-title="Sports",WWE Superstar Central
@@ -2177,6 +2167,8 @@ https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 #EXTINF:-1 tvg-id="MatchBoets.ru@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/match_boets.png" group-title="Sports",Match! Boets
 http://stream.mcquack.net/112/index.m3u8
+#EXTINF:-1 tvg-id="TNA Wrestling Channel" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fight_tna_wrestling_channel.png" group-title="Sports",TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="DaznRingside.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dazn_ringside.png" group-title="Sports",Dazn Ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1 tvg-id="FightTV.combat" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fight_tv.png" group-title="Sports",Fight TV
@@ -2214,7 +2206,7 @@ https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1 tvg-id="MLB.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mlb.png" group-title="Sports",MLB
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
 #EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nhl_network.png" group-title="Sports",NHL Network
-https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8
+https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/golf_channel.png" group-title="Sports",Golf Channel
 https://tvsen6.aynaott.com/golfchannel/index.m3u8
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tennis_channel.png" group-title="Sports",Tennis Channel
@@ -2229,6 +2221,8 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8
 #EXTINF:-1 tvg-id="CowboyTV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cowboy_tv.png" group-title="Sports",Cowboy TV
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/golf_plus.png" group-title="Sports",Golf +
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/golf_channel_latin_america.png" group-title="Sports",Golf Channel Latin America
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 #EXTINF:-1 tvg-id="Golf Network" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/golf_golf_network.png" group-title="Sports",Golf Network
@@ -2247,8 +2241,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="Poker Night In America" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/poker_poker_night_in_america.png" group-title="Sports",Poker Night In America
 https://e8d2c508ef1e469db82ceacd3c2685bc.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1068-Poker-Night-in-America-FREELIVESPORTS/mt/freelivesports/1068/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports Fishing" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_sports_fishing.png" group-title="Sports",Sports Fishing
-https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports Fishing TV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fishing_sports_fishing_tv.png" group-title="Sports",Sports Fishing TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
 #EXTINF:-1 tvg-id="Stadium.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/stadium.png" group-title="Sports",Stadium
@@ -2263,8 +2255,6 @@ https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tennisplus.png" group-title="Sports",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="World Poker Tour" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/poker_world_poker_tour.png" group-title="Sports",World Poker Tour
-https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-id="2TVSport.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/2tv_sport.png" group-title="Sports",2TV Sport
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 #EXTINF:-1 tvg-id="A SPOR" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/a_spor.png" group-title="Sports",A Spor
@@ -2277,8 +2267,6 @@ https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/ts-eu-
 https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="AntenaPlayEvents.ro@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/antenaplay_events.png" group-title="Sports",AntenaPlay Events
 https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
-#EXTINF:-1 tvg-id="AntenaSport.ro@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/antenasport.png" group-title="Sports",AntenaSport
-https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="Arena4.hu@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/arena4.png" group-title="Sports",Arena4
 http://88.212.7.14/live/arena4/index.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/as3_sport_tv.png" group-title="Sports",AS3 Sport TV
@@ -2300,7 +2288,7 @@ https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cdn_deportes.png" group-title="Sports",CDN Deportes
 https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/claro_sports.png" group-title="Sports",Claro Sports
-http://45.171.64.30:6060/play/a00w/index.m3u8
+http://45.228.234.30:16000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ct_sport.png" group-title="Sports",CT Sport
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="DiviSport.ua@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/digi_sport_2.png" group-title="Sports",Digi Sport 2
@@ -2324,7 +2312,7 @@ http://181.78.49.113:9999/play/a07f/index.m3u8
 #EXTINF:-1 tvg-id="ESPN6.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_6.png" group-title="Sports",ESPN 6
 http://38.226.49.253:8000/play/a05p/index.m3u8
 #EXTINF:-1 tvg-id="ESPN6HD.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_6_hd.png" group-title="Sports",ESPN 6 HD
-http://45.228.234.30:16000/play/a046/index.m3u8
+http://45.228.234.30:16000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_7.png" group-title="Sports",espn 7
 http://205.235.6.29:8000/play/a0zv/index.m3u8
 #EXTINF:-1 tvg-id="ESPNARG.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_arg.png" group-title="Sports",ESPN ARG
@@ -2332,9 +2320,9 @@ http://45.170.130.224:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-id="ESPNCO.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_co.png" group-title="Sports",ESPN CO
 http://181.78.8.199:8000/play/a0b1/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_premium_hd.png" group-title="Sports",ESPN Premium (Argentina) HD
-http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+http://45.188.229.33:8000/play/a1di/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPREMIUMCHI.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_premium_chi.png" group-title="Sports",ESPN PREMIUM CHI
-http://181.205.130.194:4000/play/a0fk
+http://186.33.40.97:8789/play/22
 #EXTINF:-1 tvg-id="ESPNS2.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn_s2.png" group-title="Sports",ESPN S2
 http://186.33.40.97:8789/play/20
 #EXTINF:-1 tvg-id="custom.espn8theocho" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/espn8_the_ocho.png" group-title="Sports",ESPN8 The Ocho
@@ -2356,7 +2344,7 @@ http://88.212.7.14/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Romania" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/euro_sport_2_romania.png" group-title="Sports",Euro Sport 2 Romania
 http://89.44.231.73:7000/eurosport2
 #EXTINF:-1 tvg-id="Europe Sports 1 HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/euro_sport_1.png" group-title="Sports",Eurosport 1
-http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Bulgaria" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/eurosport_1_bulgaria.png" group-title="Sports",Eurosport 1 Bulgaria
 http://213.91.179.28:8000/play/a05y
 #EXTINF:-1 tvg-id="Eurosport1.fr@Portugal" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/eurosport_1_portugal.png" group-title="Sports",Eurosport 1 Portugal
@@ -2364,7 +2352,7 @@ http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/eurosport_2_bulgaria.png" group-title="Sports",Eurosport 2 Bulgaria
 http://213.91.179.28:8000/play/a04b
 #EXTINF:-1 tvg-id="EuropeSports2HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/euro_sport_2_hd.png" group-title="Sports",Eurosport 2 HD
-http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
+http://200.115.120.1:8000/play/ca119/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/eurosport_4k_czechia.png" group-title="Sports",Eurosport 4K Czechia
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fastandfunbox.png" group-title="Sports",Fast&FunBox
@@ -2382,7 +2370,7 @@ https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playl
 #EXTINF:-1 tvg-id="FUELTV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fuel_tv.png" group-title="Sports",FUEL TV
 https://amg01074-fueltv-fueltvemeaen-sportstribal-n7krp.amagi.tv/ts-eu-w1-n2/playlist/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-id="FUTV.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/futv.png" group-title="Sports",FUTV
-http://45.228.234.9:8000/play/a06o/index.m3u8
+http://45.5.118.152:8000/play/a063/index.m3u8
 #EXTINF:-1 tvg-id="GamePlus.ca@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/gameplus.png" group-title="Sports",Game+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GO 3 sport 3" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/live_go_3_sport_1.png" group-title="Sports",GO 3 sport 1
@@ -2420,7 +2408,7 @@ http://45.228.234.30:16000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="LTV1.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ltv1.png" group-title="Sports",LTV1
 http://stream.mcquack.net/34/index.m3u8
 #EXTINF:-1 tvg-id="M-Sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/m_sports.png" group-title="Sports",M Sports
-https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
+https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="M4Sport.hu@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/m4_sport.png" group-title="Sports",M4 Sport
 http://88.212.7.14/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV.it@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/madeinbo_tv.png" group-title="Sports",MadeinBO TV
@@ -2454,7 +2442,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/p
 #EXTINF:-1 tvg-id="MVMT Culture" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fight_mvmt_culture.png" group-title="Sports",MVMT Culture
 https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
 #EXTINF:-1 tvg-id="NBCSports.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_nbc_sports.png" group-title="Sports",NBC Sports
-https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Nitro.de@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/nitro.png" group-title="Sports",Nitro
 https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Oman Sports TV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fb_oman_sports_tv.png" group-title="Sports",Oman Sports TV
@@ -2468,7 +2456,7 @@ https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/prima_sport_czechia.png" group-title="Sports",Prima Sport Czechia
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0
 #EXTINF:-1 tvg-id="RedBullTV.at@EUMENA" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/red_bull_tv.png" group-title="Sports",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?%40amarnettv.live=
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rightnow_tv.png" group-title="Sports",RightNow TV
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RSSports2.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/rs_sports_2.png" group-title="Sports",RS Sports 2
@@ -2488,7 +2476,7 @@ http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport 1" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sport_1.png" group-title="Sports",Sport 1
 http://212.102.38.45/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.ua@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sport_1.png" group-title="Sports",Sport 1 (Ukraine)
-http://88.212.7.14/live/sport1_hun/index.m3u8
+http://stream.mcquack.net/391/index.m3u8
 #EXTINF:-1 tvg-id="Sport1Baltic.ua@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sport_1_baltic.png" group-title="Sports",Sport 1 Baltic
 http://stream.mcquack.net/461/index.m3u8
 #EXTINF:-1 tvg-id="Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/sport_1_hd.png" group-title="Sports",Sport 1 HD
@@ -2522,7 +2510,7 @@ https://tvsen6.aynaott.com/talkSPORT/index.m3u8?e=1779283794&u=78be6644-0a65-48e
 #EXTINF:-1 tvg-id="TIGOSPORTS.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tigo_sports.png" group-title="Sports",TIGO SPORTS
 http://45.5.118.152:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tnt_sport.png" group-title="Sports",TNT Sports
-http://205.235.6.29:8000/play/a0xa/index.m3u8
+http://209.45.101.130:8040/play/a03s/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportsStars" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/trace_sport_stars.png" group-title="Sports",Trace Sport Stars
 https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_sd/index.m3u8
 #EXTINF:-1 tvg-id="TSN 1" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tsn_1.png" group-title="Sports",TSN 1
@@ -2539,14 +2527,18 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 http://202.150.172.59/TVRI/index.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tvri_sport.png" group-title="Sports",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tyc_sports_usa.png" group-title="Sports",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_unbeaten_sports_channel.png" group-title="Sports",Unbeaten Sports Channel
 https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8
 #EXTINF:-1 tvg-id="ViaXSport.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/via_x_sport.png" group-title="Sports",Via X Sport
 http://38.226.49.253:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="vijuPlusSport.ru@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/vijuplus_sport.png" group-title="Sports",viju+ Sport
-http://46.53.200.153:7777/play/a01l/index.m3u8
+http://stream.mcquack.net/333/index.m3u8
 #EXTINF:-1 tvg-id="WinSports2.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/win2.png" group-title="Sports",Win Sports 2
 http://190.60.37.118:4000/play/a0bw
+#EXTINF:-1 tvg-id="WINSPORT.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/winplus_sport.png" group-title="Sports",WIN+ SPORT
+http://190.60.32.178:8178/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-id="WinSport.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/winplus_sport.png" group-title="Sports",Win+ Sport
 http://190.60.37.154:45000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="WOF1.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_wof_1.png" group-title="Sports",WOF 1
@@ -2558,7 +2550,7 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="World of Freesports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_world_of_freesports.png" group-title="Sports",World of Freesports
 https://amg01866-mainstreammedia-freesportsinc-sportstribal-b3zdo.amagi.tv/ts-eu-w1-n2/playlist/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremSports.sports" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mixer_xtrem_sports.jpg" group-title="Sports",Xtrem Sports
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-id="deentv.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/deen_tv_bangla.png" group-title="Religious",Deen TV Bangla
 https://app.ncare.live/live-orgin/deentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IslamicTV.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/islamic_tv.png" group-title="Religious",Islamic TV
@@ -2576,7 +2568,7 @@ https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AzanTV.ca" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/azan_tv.png" group-title="Religious",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-id="ARYQTV.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ary_qtv.png" group-title="Religious",ARY QTV
-https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_1080p.m3u8?isSubM3u8=1
+https://aryqtvm.aryzap.com/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_720p.m3u8
 #EXTINF:-1 tvg-id="MadaniChannel.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/madani_channel.png" group-title="Religious",Madani Channel Urdu
 http://neorcqds.top:8080/4241763327415375/f206ced7f9fb/23649
 #EXTINF:-1 tvg-id="MadaniTV.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/madani_tv.png" group-title="Religious",Madani TV
@@ -2589,14 +2581,12 @@ https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v4a1/mono.m3u8
 https://cdn.pishow.tv/ott/live/229/master.m3u8
 #EXTINF:-1 tvg-id="TehzeebTV.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tehzeeb_tv.png" group-title="Religious",Tehzeeb TV
 https://cdn.pishow.tv/ott/live/239/master.m3u8
-#EXTINF:-1 tvg-id="iPlusTV.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/iplus_tv.png" group-title="Religious",iPlus TV
-https://5dd3981940faa.streamlock.net/iplustv/iplustv/chunklist_w1445132565.m3u8
 #EXTINF:-1 tvg-id="HadiTV1.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hadi_tv.png" group-title="Religious",Hadi TV 1
 https://bucharest.zeuscdn724.com/lb0/H1/index.m3u8
 #EXTINF:-1 tvg-id="AlMahdiTV.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/al_mahditv.png" group-title="Religious",Al-Mahdi TV
 https://iptv.almahditv.com/almahditv/playlist.m3u8
 #EXTINF:-1 tvg-id="HadiTVDua.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dua_channel.png" group-title="Religious",Hadi TV Dua
-https://newyork.zeuscdn724.com:443/H9/index.m3u8
+https://bucharest.zeuscdn724.com/lb0/H9/index.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hyder_tv.png" group-title="Religious",Hyder TV
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IslamTVUrdu.pk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/islam_tv_urdu.png" group-title="Religious",Islam TV Urdu
@@ -2644,7 +2634,7 @@ https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8
 #EXTINF:-1 tvg-id="MuslimNetworkTV.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/muslim_network_tv.jpg" group-title="Religious",Muslim Network TV
 https://afghantv.app/hls2/muslimnetwork/index.m3u8
 #EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ahlulbayt_tv.jpg" group-title="Religious",Ahlulbayt TV
-https://cd198.anystream.uk:8082/hls/abtv3ng/1_2/index.m3u8
+https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.ae" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/al_sharqiya.png" group-title="Religious",Al Sharqiya Kalba
 http://185.9.2.18/chid_144/index.m3u8
 #EXTINF:-1 tvg-id="AlWafaTarim.ye" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/al_wafa_tarim.png" group-title="Religious",Al Wafa Tarim TV
@@ -2677,6 +2667,8 @@ https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 http://bosstv.click:8080/live/18012689/77561563/92412.ts
 #EXTINF:-1 tvg-id="SRKTV.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/srk_tv.png" group-title="Kids",SRK TV
 https://srktv.net/srktvhls/cdnlive_srktv.m3u8
+#EXTINF:-1 tvg-id="ZBCartoon.bd" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/zb_cartoon.png" group-title="Kids",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelHD.in" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/disney_channel_hd_hindi.png" group-title="Kids",Disney Channel HD Hindi
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/19741.ts
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/disney_channel_hindi.png" group-title="Kids",Disney Channel Hindi
@@ -2750,7 +2742,7 @@ http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/disney_junior.png" group-title="Kids",Disney Junior
 https://tvsen7.aynaott.com/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DuckTV" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1_duck_tv.png" group-title="Kids",ducktv
-https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
+https://d6lk10bkdgfae.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n0stmvwxmsf5c/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ducktv_plus.png" group-title="Kids",ducktv plus
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="Hop.il@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/hop.png" group-title="Kids",Hop!
@@ -2794,7 +2786,7 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/48
 #EXTINF:-1 tvg-id="Tooku.ru@SDn" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1_tooku.png" group-title="Kids",Tooku
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_toon_goggles_junior.png" group-title="Kids",Toon Goggles Junior
-https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
+https://d3i6upqaqzosi1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9k42dil136v1e-prod/tg/jr_us/tg_jr_us.m3u8
 #EXTINF:-1 tvg-id="TraLaLaDSN.ro@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/tralala_tv.svg" group-title="Kids",TraLaLa TV
 https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8
 #EXTINF:-1 tvg-id="CBeebies.pl@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/bbc_cbeebies_poland.png" group-title="Kids",BBC CBeebies (Poland)
@@ -2806,7 +2798,7 @@ https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJ
 #EXTINF:-1 tvg-id="Cartoonito.la" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/cartoonito.png" group-title="Kids",Cartoonito Latin America
 http://45.228.234.30:16000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.la" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/discovery_kids.png" group-title="Kids",Discovery Kids Latin America
-http://181.224.200.5:2277/play/a00o/index.m3u8
+http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.la" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/disney_junior.png" group-title="Kids",Disney Junior Latin America
 http://45.228.234.30:16000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="MinimaxCEE.cz@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/minimax_cee.png" group-title="Kids",Minimax CEE
@@ -2866,7 +2858,7 @@ https://d1xqdnwy1bo05f.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="BotflixTV.us@HD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/botflix_tv.webp" group-title="Kids",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1 tvg-id="LOSSIMPSONS.intl" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/los_simpson.png" group-title="Kids",Los Simpson
-http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
+http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:-1 tvg-id="Mr Bean Animated" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_mr_bean_live_action.png" group-title="Kids",Mr Bean Animated
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_mr_bean_live_action.png" group-title="Kids",Mr Bean Live Action
@@ -2890,9 +2882,9 @@ https://distributionsjustepourrire-justforlaughsgags-1-be.samsung.wurl.tv/playli
 #EXTINF:-1 tvg-id="MnauTV.cz@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/mňau_tv.png" group-title="Kids",Mňau TV
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@India" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/the_pet_collective.png" group-title="Kids",The Pet Collective
-https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.us@Australia" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/the_pet_collective_international.png" group-title="Kids",The Pet Collective International
-https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
+https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/1_afarin_tv.png" group-title="Kids",Afarin TV
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AkiliKids.ke@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/akili_kids.png" group-title="Kids",Akili Kids!
@@ -2922,11 +2914,13 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/discovery_kids_brazil.png" group-title="Kids",Discovery Kids Brazil
 http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.la" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/0_disney_channel_latin_america.svg" group-title="Kids",Disney Channel Latin America
-http://15.204.246.24:8080/DisneyHD/index.m3u8
+http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/dumdum.svg" group-title="Kids",DumDum
 http://186.219.52.187/zoomoo/index.m3u8
 #EXTINF:-1 tvg-id="EBSKids.kr@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/ebs_kids.png" group-title="Kids",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="FMHKids.us@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/fmh_kids.png" group-title="Kids",FMH Kids
+http://38.87.224.19:2220/play/a03u/index.m3u8
 #EXTINF:-1 tvg-id="FunBox.cl@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/funbox.png" group-title="Kids",FunBox
 http://186.148.196.100:8000/play/a00d
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/gulli.png" group-title="Kids",Gulli
@@ -2995,6 +2989,8 @@ http://stream.mcquack.net/82/index.m3u8
 http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 tvg-id="Ryzhiy.ru@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/рыжий_ryzhiy.png" group-title="Kids",Рыжий (Ryzhiy)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Solntse.ru" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/solntse.png" group-title="Kids",Солнце (Solntse)
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-id="O.ru@SD" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/телеканал_о_o.png" group-title="Kids",Телеканал О! (O!)
 http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1 tvg-id="O.ru@International" tvg-logo="https://raw.githubusercontent.com/time2shine/IPTV-logos/main/logos/телеканал_о_international.png" group-title="Kids",Телеканал О! International

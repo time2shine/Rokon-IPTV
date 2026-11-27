@@ -1,8 +1,27 @@
 # 📺 Rokon IPTV
 
-A curated and automatically maintained **M3U IPTV playlist** featuring Bangla and international live television channels.
+A curated and automatically maintained **M3U IPTV playlist** featuring Bangla and international live television channels, built to power **[PulseTV](https://github.com/time2shine/PulseTV)**.
 
-The playlist is organized by category and includes channel names, logos, group information, and stream URLs for use with IPTV players.
+The playlist is organized into canonical categories with channel names, logos, EPG metadata, and verified stream URLs.
+
+---
+
+## 📱 Official App: PulseTV
+
+**[PulseTV](https://github.com/time2shine/PulseTV)** is the official, free, ad-free Android TV & Mobile application built specifically for this playlist — with zero manual setup, low-latency HLS/TS playback, an interactive Bangladesh Standard Time (BST) TV Guide (EPG), Live Sports Hub, and Movies/Natok/Series.
+
+| Platform | Latest Release | Direct Download |
+| :--- | :--- | :--- |
+| **Android TV / Google TV / Fire TV / Mobile** | **PulseTV** | [Download PulseTV.apk](https://github.com/time2shine/PulseTV/releases/latest/download/PulseTV.apk) |
+
+- **Mobile / Browser Short Link:** https://tinyurl.com/downloadPulseTV
+- **Android TV / Fire TV Downloader Code:** `1712630` (`https://aftv.news/1712630`)
+- **App Repository & Releases:** https://github.com/time2shine/PulseTV
+
+### Quick Install on Android TV / Fire TV
+1. Install **Downloader** (by AFTVnews) from your TV's app store.
+2. Enter code **`1712630`** (or `aftv.news/1712630`) and press **Go**.
+3. Install `PulseTV.apk` and start watching immediately — no playlist URL entry required.
 
 ---
 
@@ -22,49 +41,13 @@ https://tinyurl.com/rokon-iptv
 
 ---
 
-## 📺 Supported Players
-
-The playlist uses the standard M3U format and can be opened with most IPTV-compatible applications, including:
-
-- Sparkle TV
-- TiviMate
-- Televizo
-- OTT Navigator
-- VLC Media Player
-- Kodi
-- Other M3U-compatible IPTV players
-
----
-
 ## ✨ Features
 
-- 📡 Bangla and international live TV channels
-- 🗂 Channels organized into categories
-- 🖼 Channel logos and IPTV metadata
-- 🔄 Playlist refreshed automatically
-- 📺 Standard M3U format
-- 🌐 Direct playlist URL for IPTV applications
-- ⚡ CDN-hosted combined playlist
-- 🧹 Automated playlist maintenance
-
----
-
-## 🚀 Quick Start
-
-Copy one of the playlist URLs above.
-
-In your IPTV player:
-
-1. Add a new playlist/source.
-2. Select **M3U Playlist** or **Playlist URL**.
-3. Paste the URL.
-4. Save and refresh the playlist.
-
-Example:
-
-```text
-https://tinyurl.com/rokon-iptv
-```
+- 📡 Bangla and international live TV channels across 13+ canonical categories
+- 🗂 Cleanly organized channel groups and normalized titles
+- 🖼 Channel logos (`IPTV-logos`) and XMLTV EPG metadata (BST / UTC+6)
+- 🔄 Automatically verified and refreshed via the Rokon IPTV pipeline
+- ⚡ Edge-optimized delivery for **PulseTV** on Android TV, Fire TV, and mobile
 
 ---
 
@@ -76,9 +59,7 @@ Rokon-IPTV/
 └── readme.md
 ```
 
-`playlist.m3u` contains the publicly available live TV playlist.
-
-The playlist is generated and maintained automatically by the Rokon IPTV pipeline.
+`playlist.m3u` contains the publicly available live TV playlist generated and maintained by the Rokon IPTV pipeline.
 
 ---
 
@@ -104,6 +85,6 @@ This project is maintained for personal, educational, and technical experimentat
 
 ---
 
-## ⭐ Rokon IPTV
+## ⭐ Rokon IPTV & PulseTV
 
-If this playlist is useful to you, you can star the repository to make it easier to find again.
+If you find this project useful, please star **[Rokon-IPTV](https://github.com/time2shine/Rokon-IPTV)** and **[PulseTV](https://github.com/time2shine/PulseTV)**.
